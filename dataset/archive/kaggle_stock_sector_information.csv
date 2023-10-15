@@ -1,0 +1,438 @@
+,Instrument,Company Common Name,TRBC Economic Sector Name,TRBC Business Sector Name,TRBC Industry Group Name,TRBC Industry Name,TRBC Activity Name,TRBC Economic Sector Code,TRBC Business Sector Code,TRBC Industry Group Code,TRBC Industry Code,TRBC Activity Code
+0,CBKG.DE,Commerzbank AG,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+1,DTEGn.DE,Deutsche Telekom AG,Technology,Telecommunications Services,Telecommunications Services,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC),57,5740,574010,57401010,5740101010
+2,ALVG.DE,Allianz SE,Financials,Insurance,Insurance,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC),55,5530,553010,55301010,5530101010
+3,MBGn.DE,Mercedes Benz Group AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC),53,5310,531010,53101010,5310101010
+4,SAPG.DE,SAP SE,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+5,IFXGn.DE,Infineon Technologies AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Semiconductors (NEC),57,5710,571010,57101010,5710101010
+6,SIEGn.DE,Siemens AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+7,VOWG_p.DE,Volkswagen AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC),53,5310,531010,53101010,5310101010
+8,MUVGn.DE,Muenchener Rueckversicherungs Gesellschaft in Muenchen AG,Financials,Insurance,Insurance,Reinsurance,Property & Casualty Reinsurance,55,5530,553010,55301050,5530105012
+9,BAYGn.DE,Bayer AG,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Pharmaceuticals (NEC),56,5620,562010,56201040,5620104010
+10,VNAn.DE,Vonovia SE,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+11,BASFn.DE,BASF SE,Basic Materials,Chemicals,Chemicals,Diversified Chemicals,Diversified Chemicals,51,5110,511010,51101090,5110109010
+12,DBKGn.DE,Deutsche Bank AG,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+13,PSHG_p.DE,Porsche Automobil Holding SE,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC),53,5310,531010,53101010,5310101010
+14,DB1Gn.DE,Deutsche Boerse AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Financial & Commodity Market Operators & Service Providers,Financial & Commodity Market Operators & Service Providers (NEC),55,5510,551020,55102050,5510205010
+15,DPWGn.DE,Deutsche Post AG,Industrials,Transportation,Freight & Logistics Services,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)",52,5240,524050,52405010,5240501010
+16,RHMG.DE,Rheinmetall AG,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,Aerospace & Defense (NEC),52,5210,521010,52101010,5210101010
+17,ADSGn.DE,Adidas AG,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Footwear,Sports & Outdoor Footwear,53,5320,532020,53202030,5320203014
+18,ZALG.DE,Zalando SE,Technology,Software & IT Services,Software & IT Services,Online Services,E-commerce & Auction Services,57,5720,572010,57201030,5720103013
+19,RWEG.DE,RWE AG,Utilities,Utilities,Multiline Utilities,Multiline Utilities,Multiline Utilities,59,5910,591040,59104010,5910401010
+20,EONGn.DE,E ON SE,Utilities,Utilities,Multiline Utilities,Multiline Utilities,Multiline Utilities,59,5910,591040,59104010,5910401010
+21,ENR1n.DE,Siemens Energy AG,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Renewable Energy Equipment & Services (NEC),50,5020,502010,50201010,5020101010
+22,DTGGe.DE,Daimler Truck Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC),52,5210,521020,52102020,5210202010
+23,1COV.DE,Covestro AG,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,Plastics,51,5110,511010,51101010,5110101011
+24,FREG.DE,Fresenius SE & Co KGaA,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,"Hospitals, Clinics & Primary Care Services",56,5610,561020,56102010,5610201011
+25,AIRG.DE,Airbus SE,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,Commercial Aircraft Manufacturing,52,5210,521010,52101010,5210101012
+26,HNRGn.DE,Hannover Rueck SE,Financials,Insurance,Insurance,Reinsurance,Property & Casualty Reinsurance,55,5530,553010,55301050,5530105012
+27,SY1G.DE,Symrise AG,Basic Materials,Chemicals,Chemicals,Specialty Chemicals,Specialty Chemicals (NEC),51,5110,511010,51101030,5110103010
+28,P911_p.DE,Dr Ing hc F Porsche AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Automobiles & Multi Utility Vehicles,53,5310,531010,53101010,5310101012
+29,MRCG.DE,Merck KGaA,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Proprietary & Advanced Pharmaceuticals,56,5620,562010,56201040,5620104011
+30,MTXGn.DE,MTU Aero Engines AG,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,Aircraft Parts Manufacturing,52,5210,521010,52101010,5210101014
+31,SATG.DE,Sartorius AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,Medical Diagnostic & Testing Equipment,56,5610,561010,56101010,5610101011
+32,HEIG.DE,Heidelberg Materials AG,Basic Materials,Mineral Resources,Construction Materials,Construction Materials,Construction Materials (NEC),51,5120,512020,51202010,5120201010
+33,QIA.DE,Qiagen NV,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+34,BEIG.DE,Beiersdorf AG,Consumer Non-Cyclicals,Personal & Household Products & Services,Personal & Household Products & Services,Personal Products,Personal Products (NEC),54,5420,542010,54201020,5420102010
+35,CONG.DE,Continental AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)",53,5310,531010,53101020,5310102010
+36,BNRGn.DE,Brenntag SE,Basic Materials,Chemicals,Chemicals,Diversified Chemicals,Diversified Chemicals,51,5110,511010,51101090,5110109010
+37,SHLG.DE,Siemens Healthineers AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC),56,5610,561010,56101010,5610101010
+38,HNKG_p.DE,Henkel AG & Co KGaA,Basic Materials,Chemicals,Chemicals,Specialty Chemicals,Adhesive & Epoxy,51,5110,511010,51101030,5110103019
+39,MBTN.S,Meyer Burger Technology AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Equipment & Testing,Semiconductor Machinery Manufacturing,57,5710,571010,57101020,5710102011
+40,GSKGn.DE^D11,IPG Investment Partners Group AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,Investment Banking & Brokerage Services (NEC),55,5510,551020,55102010,5510201010
+41,EDHN.S,Energiedienst Holding AG,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,Hydroelectric & Tidal Utilities,59,5910,591010,59101010,5910101021
+42,PAGn.DE,PREOS Global Office Real Estate & Technology AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+43,WACGn.DE,Wacker Neuson SE,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC),52,5210,521020,52102020,5210202010
+44,C1VG.DE,mVISE AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+45,HAKG.HA,Einbecker Brauhaus AG,Consumer Non-Cyclicals,Food & Beverages,Beverages,Brewers,Brewers (NEC),54,5410,541010,54101010,5410101010
+46,ATWG.BE,Allerthal-Werke AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+47,MDNG.DE,Medion AG,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,Computer Hardware (NEC),57,5710,571060,57106010,5710601010
+48,PPGN.S,PolyPeptide Group AG,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Pharmaceuticals (NEC),56,5620,562010,56201040,5620104010
+49,VACN.S,VAT Group AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Valve Manufacturing,52,5210,521020,52102010,5210201023
+50,DLXG.DE,Delignit AG,Basic Materials,Applied Resources,Paper & Forest Products,Forest & Wood Products,Wood Products,51,5130,513010,51301010,5130101015
+51,LEH.F,Lehner Investments AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management,55,5510,551020,55102020,5510202011
+52,BASFn.DE,BASF SE,Basic Materials,Chemicals,Chemicals,Diversified Chemicals,Diversified Chemicals,51,5110,511010,51101090,5110109010
+53,CONG.DE,Continental AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)",53,5310,531010,53101020,5310102010
+54,LIK.DE,Limes Schlosskliniken AG,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,"Hospitals, Clinics & Primary Care Services",56,5610,561020,56102010,5610201011
+55,M4NG.DE,Muehlhan AG,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+56,A62.DE,IGP Advantag AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,Brokerage Services,55,5510,551020,55102010,5510201012
+57,ZILGn.DE,Elringklinger AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)",53,5310,531010,53101020,5310102010
+58,BIJG.DE,Bijou Brigitte modische Accessoires AG,Consumer Cyclicals,Retailers,Specialty Retailers,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC),53,5340,534030,53403040,5340304010
+59,NB2.DE,Northern Data AG,Technology,Software & IT Services,Software & IT Services,Software,Application Software,57,5720,572010,57201020,5720102012
+60,REIT.LU,Reinet Investments SCA,Financials,Banking & Investment Services,Banking Services,Corporate Financial Services,Corporate Financial Services (NEC),55,5510,551010,55101050,5510105010
+61,AEVS.S,Aevis Victoria SA,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,"Hospitals, Clinics & Primary Care Services",56,5610,561020,56102010,5610201011
+62,SENSI.S,Sensirion Holding AG,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,Electronic Components,57,5710,571040,57104010,5710401014
+63,DTGGe.DE,Daimler Truck Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC),52,5210,521020,52102020,5210202010
+64,INWk.DE,GBS Software AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+65,APPHG.DE,Apontis Pharma AG,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Pharmaceuticals (NEC),56,5620,562010,56201040,5620104010
+66,RIEN.S,Rieter Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+67,DICn.DE,DIC Asset AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Office Real Estate Rental & Development,60,6010,601010,60101010,6010101020
+68,IURG.DE,Kap AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+69,PBYG.DE,Publity AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Office Real Estate Rental & Development,60,6010,601010,60101010,6010101020
+70,H5EG.DE,HELMA Eigenheimbau AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+71,MAXIMA.BN,Promaxima Immobilien AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+72,KGX.DE,Kion Group AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC),52,5210,521020,52102020,5210202010
+73,BRKN.S,Burkhalter Holding AG,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+74,ALXA.F,Alexanderwerk AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+75,SENIO.BN,SenioResidenz AG,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,Healthcare REITs,60,6010,601020,60102040,6010204020
+76,WARN.S,Warteck Invest AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+77,LENV.VI,Lenzing AG,Basic Materials,Chemicals,Chemicals,Specialty Chemicals,Synthetic Fibers,51,5110,511010,51101030,5110103012
+78,KTCG.VI,Kapsch Trafficcom AG,Technology,Technology Equipment,Communications & Networking,Communications & Networking,Communications & Networking (NEC),57,5710,571020,57102010,5710201010
+79,HXCKk.DE,Ernst Russ AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC),55,5510,551020,55102020,5510202010
+80,CT4.D,Fox E-Mobility AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Electric (Alternative) Vehicles,53,5310,531010,53101010,5310101014
+81,NSTG.H,Steuler Fliesengruppe AG,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Construction Supplies & Fixtures,Flooring & Interior Tile Manufacturers,53,5320,532030,53203020,5320302014
+82,DMRE.DE,Demire Deutsche Mittelstand Real Estate AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+83,ABT1.D,Advanced Bitcoin Technologies AG,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),Financial Technology (Fintech) (NEC),57,5730,573010,57301010,5730101010
+84,HP3An.DE,Ringmetall SE,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+85,JZ6.DE,Deutsche Eigenheim Union AG,Real Estate,Real Estate,Real Estate Operations,Real Estate Services,Residential Real Estate Services,60,6010,601010,60101020,6010102050
+86,9TS.D,Tubesolar AG,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Photovoltaic Solar Systems & Equipment,50,5020,502010,50201010,5020101013
+87,EXLn.DE,Exasol AG,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,Data Processing Services,52,5220,522030,52203040,5220304017
+88,SPEXN.S,Spexis AG,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Biopharmaceuticals,56,5620,562010,56201040,5620104012
+89,LEGn.DE,LEG Immobilien SE,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+90,3D6.DE,Avemio AG,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Entertainment Production,Entertainment Production Equipment & Services,53,5330,533020,53302030,5330203014
+91,MNVG.F,Mainova AG,Utilities,Utilities,Multiline Utilities,Multiline Utilities,Multiline Utilities,59,5910,591040,59104010,5910401010
+92,Z29.DE,029 Group SE,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+93,VG8G.DE,Varengold Bank AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,Investment Banking & Brokerage Services (NEC),55,5510,551020,55102010,5510201010
+94,HPHA.DE,Heidelberg Pharma AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Bio Therapeutic Drugs,56,5620,562020,56202010,5620201011
+95,BALN.S,Baloise Holding AG,Financials,Insurance,Insurance,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC),55,5530,553010,55301010,5530101010
+96,GLKBN.S,Glarner Kantonalbank,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+97,VT5.S,VT5 Acquisition Company AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Shell Companies,55,5560,556010,55601010,5560101011
+98,GN.CO,GN Store Nord A/S,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC),56,5610,561010,56101010,5610101010
+99,MS1.DE,Marley Spoon Group SE,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Restaurants & Bars,Restaurants & Bars (NEC),53,5330,533010,53301020,5330102010
+100,H24.DE,Home24 SE,Consumer Cyclicals,Retailers,Specialty Retailers,Home Furnishings Retailers,Home Furnishings Retailers (NEC),53,5340,534030,53403030,5340303010
+101,II8.SG,Secanda AG,Technology,Software & IT Services,Software & IT Services,Online Services,Internet Security & Transactions Services,57,5720,572010,57201030,5720103015
+102,TUFG.F,Libero football finance AG,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+103,SLHN.S,Swiss Life Holding AG,Financials,Insurance,Insurance,Life & Health Insurance,Life & Health Insurance (NEC),55,5530,553010,55301030,5530103010
+104,BVZN.S,BVZ Holding AG,Industrials,Transportation,Passenger Transportation Services,"Passenger Transportation, Ground & Sea",Commuting Services,52,5240,524060,52406020,5240602011
+105,ELGG.DE,Elmos Semiconductor SE,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Semiconductors (NEC),57,5710,571010,57101010,5710101010
+106,TTKG.DE,Takkt AG,Technology,Technology Equipment,Office Equipment,Office Equipment,Office Equipment Wholesale,57,5710,571050,57105010,5710501015
+107,MTVG.DE,Albis Leasing AG,Financials,Banking & Investment Services,Banking Services,Corporate Financial Services,Commercial Leasing,55,5510,551010,55101050,5510105015
+108,H2OG.F,Enapter AG,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,Electric Utilities (NEC),59,5910,591010,59101010,5910101010
+109,KNRS.S,Kinarus Therapeutics Holding AG,Industrials,Transportation,Passenger Transportation Services,Airlines,Charter & Private Air Services,52,5240,524060,52406010,5240601012
+110,HELN.S,Helvetia Holding AG,Financials,Insurance,Insurance,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC),55,5530,553010,55301010,5530101010
+111,EVE.S,Evolva Holding SA,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+112,LEON.S,Leonteq AG,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),Financial Technology (Fintech) (NEC),57,5730,573010,57301010,5730101010
+113,HBMN.S,HBM Healthcare Investments AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Venture Capital,55,5510,551020,55102020,5510202015
+114,991.MU,Vitruvia Medical AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,Medical Software & Technology Services,56,5610,561010,56101010,5610101015
+115,SBXn.D,SynBiotic SE,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Recreational Pharmaceuticals,56,5620,562010,56201040,5620104017
+116,S92G.DE,SMA Solar Technology AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Semiconductors (NEC),57,5710,571010,57101010,5710101010
+117,RLFB.S,Relief Therapeutics Holding SA,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+118,ENR1n.DE,Siemens Energy AG,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Renewable Energy Equipment & Services (NEC),50,5020,502010,50201010,5020101010
+119,EING_p.DE,Einhell Germany AG,Consumer Cyclicals,Cyclical Consumer Products,Household Goods,"Appliances, Tools & Housewares","Appliances, Tools & Housewares (NEC)",53,5320,532040,53204030,5320403010
+120,TBX0.F,Tick Trading Software AG,Technology,Software & IT Services,Software & IT Services,Software,Application Software,57,5720,572010,57201020,5720102012
+121,A7AGn.DE,Finlab AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Venture Capital,55,5510,551020,55102020,5510202015
+122,V6CG.DE,Viscom AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+123,PALG.DE,Pantaflix AG,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Entertainment Production,"Movie, TV Production & Distribution",53,5330,533020,53302030,5330203011
+124,CYR.DE,Cyan AG,Technology,Software & IT Services,Software & IT Services,Software,Software (NEC),57,5720,572010,57201020,5720102010
+125,ACAGr.AT,Austriacard Holdings AG,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,Storage Devices,57,5710,571060,57106010,5710601017
+126,NSAK.D,OTI Greentech AG,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Environmental Services & Equipment,Environmental Services & Equipment (NEC),52,5220,522030,52203010,5220301010
+127,COKG.DE,Cancom SE,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+128,LEOGn.DE,Leoni AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,Wires & Cables,52,5210,521020,52102030,5210203012
+129,ST5G.DE,Steico SE,Basic Materials,Applied Resources,Paper & Forest Products,Forest & Wood Products,Wood Products,51,5130,513010,51301010,5130101015
+130,SGCG.DE,SGL Carbon SE,Basic Materials,Mineral Resources,Metals & Mining,Specialty Mining & Metals,Nonferrous Metal Processing,51,5120,512010,51201050,5120105016
+131,A4Y.DE,Accentro Real Estate AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+132,BBN.S,Bellevue Group AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management,55,5510,551020,55102020,5510202011
+133,SDPN.BN,Sandpiper Digital Payments AG,Technology,Technology Equipment,Office Equipment,Office Equipment,Office Equipment (NEC),57,5710,571050,57105010,5710501010
+134,123F.DE,123fahrschule SE,Technology,Software & IT Services,Software & IT Services,Software,Application Software,57,5720,572010,57201020,5720102012
+135,M8H0.DE,MBH Corporation PLC,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+136,BKHTn.DE,Brockhaus Technologies AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+137,EVNV.VI,EVN AG,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,Electric Utilities (NEC),59,5910,591010,59101010,5910101010
+138,DHLn.DE,Deutsche Post AG,Industrials,Transportation,Freight & Logistics Services,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)",52,5240,524050,52405010,5240501010
+139,SSSG.D,Schulte-Schlagbaum AG,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Supplies,Business Support Supplies (NEC),52,5220,522030,52203060,5220306010
+140,UNIQ.VI,Uniqa Insurance Group AG,Financials,Insurance,Insurance,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC),55,5530,553010,55301010,5530101010
+141,STLN.S,Swiss Steel Holding AG,Basic Materials,Mineral Resources,Metals & Mining,Iron & Steel,"Iron, Steel Mills & Foundries",51,5120,512010,51201020,5120102013
+142,4NJ.D,Deutsche Payment A1M SE,Technology,Software & IT Services,Software & IT Services,Online Services,E-commerce & Auction Services,57,5720,572010,57201030,5720103013
+143,FTKn.DE,flatexDEGIRO AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,Investment Banking & Brokerage Services (NEC),55,5510,551020,55102010,5510201010
+144,INRN.S,Interroll Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Electrical Equipment,Elevator & Conveying Equipment,52,5210,521020,52102040,5210204012
+145,GGS.DE,Gigaset AG,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Phones & Handheld Devices,Phones & Smart Phones,57,5710,571060,57106020,5710602011
+146,SWON.S,Softwareone Holding AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+147,AOFG.DE,Atoss Software AG,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+148,CALN.S,Calida Holding AG,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Apparel & Accessories,Apparel & Accessories (NEC),53,5320,532020,53202020,5320202010
+149,B7EG.DE,Blue Cap AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Private Equity,55,5510,551020,55102020,5510202016
+150,HLEE.S,Highlight Event and Entertainment AG,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Entertainment Production,"Movie, TV Production & Distribution",53,5330,533020,53302030,5330203011
+151,EIC.S,Eeii AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+152,AAQ1k.DE,Aap Implantate AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)",56,5610,561010,56101020,5610102010
+153,SY5N.MU,Stern Immobilien AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+154,DNIG.BE,DNI Beteiligungen AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+155,ECX1k.DE,Epigenomics AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Bio Diagnostics & Testing,56,5620,562020,56202010,5620201012
+156,SURG.DE,Surteco Group SE,Consumer Cyclicals,Cyclical Consumer Products,Household Goods,Home Furnishings,Home Furnishings (NEC),53,5320,532040,53204040,5320404010
+157,R1B.DE,Rubean AG,Technology,Software & IT Services,Software & IT Services,Software,Software (NEC),57,5720,572010,57201020,5720102010
+158,IVUG.DE,IVU Traffic Technologies AG,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+159,HGEA.DE,hGears AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)",53,5310,531010,53101020,5310102010
+160,AB9.DE,ABO Wind AG,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Wind Systems & Equipment,50,5020,502010,50201010,5020101011
+161,P4OG.DE,Plan Optik AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Semiconductors (NEC),57,5710,571010,57101010,5710101010
+162,ACLN.S,Accelleron Industries AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+163,DKG.DE,Deutsche Konsum REIT-AG,Real Estate,Real Estate,Real Estate Operations,Real Estate Services,Residential Real Estate Services,60,6010,601010,60101020,6010102050
+164,UMDk.DE,UMT United Mobility Technology AG,Technology,Software & IT Services,Software & IT Services,Software,Mobile Application Software,57,5720,572010,57201020,5720102014
+165,DOCM.S,DocMorris AG,Consumer Non-Cyclicals,Food & Drug Retailing,Food & Drug Retailing,Drug Retailers,Drug Retailers (NEC),54,5430,543010,54301010,5430101010
+166,H9YG.DE,HanseYachts AG,Consumer Cyclicals,Cyclical Consumer Products,Leisure Products,Recreational Products,Sailing Yachts & Motorboats,53,5320,532050,53205020,5320502011
+167,ISN.S,Intershop Holding AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+168,XLS.S,Xlife Sciences AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+169,O2C.F^H23,Petro Welt Technologies AG,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil Related Services and Equipment,Oil Related Services,50,5010,501030,50103020,5010302011
+170,LHAG.DE,Deutsche Lufthansa AG,Industrials,Transportation,Passenger Transportation Services,Airlines,Airlines (NEC),52,5240,524060,52406010,5240601010
+171,LEHN.S,Lem Holding SA,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,Electrical Measuring & Testing Instruments,52,5210,521020,52102030,5210203019
+172,MBQGn.DE,Mobotix AG,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,Output Devices,57,5710,571060,57106010,5710601015
+173,E66n.MU,Semodu AG,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+174,EPICN.S,EPIC Suisse AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+175,SHVA.DE,Shareholder Value Beteiligungen AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Private Equity,55,5510,551020,55102020,5510202016
+176,UN01.DE,Uniper SE,Utilities,Utilities,Multiline Utilities,Multiline Utilities,Multiline Utilities,59,5910,591040,59104010,5910401010
+177,88D.MU,WR Wohnraum AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+178,SPSN.S,Swiss Prime Site AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+179,FKAV.VI,Frauenthal Holding AG,Consumer Non-Cyclicals,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,54,5440,544010,54401010,5440101010
+180,NXRG.F,NEXR Technologies SE,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+181,PATGn.DE,Patrizia SE,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+182,GIVG.DE,Verianos Se,Real Estate,Real Estate,Real Estate Operations,Real Estate Services,Real Estate Services (NEC),60,6010,601010,60101020,6010102010
+183,ODHN.S,Orascom Development Holding AG,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,"Hotels, Motels & Cruise Lines","Hotels, Motels & Cruise Lines (NEC)",53,5330,533010,53301010,5330101010
+184,KSBE.BN,Kursaal Bern AG,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Casinos & Gaming,Casinos,53,5330,533010,53301030,5330103013
+185,5OZ.D,Vameva Se,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,Management Consulting Services,52,5220,522030,52203040,5220304013
+186,SOON.S,Sonova Holding AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",Medical Prosthetics,56,5610,561010,56101020,5610102012
+187,DCN.S,Datacolor AG,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,Output Devices,57,5710,571060,57106010,5710601015
+188,PSAGn.DE,PSI Software SE,Technology,Software & IT Services,Software & IT Services,Software,Software (NEC),57,5720,572010,57201020,5720102010
+189,NBHG.MU,Hoftex Group AG,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Textiles & Leather Goods,Textiles & Leather Goods (NEC),53,5320,532020,53202010,5320201010
+190,AMGOLD.PA,Amundi Physical Metals PLC,Financials,Banking & Investment Services,Banking Services,Corporate Financial Services,Corporate Financial Services (NEC),55,5510,551010,55101050,5510105010
+191,A1OS.DE,All for One Group SE,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+192,VH2.DE,Friedrich Vorwerk Group SE,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+193,NA9n.DE,Nagarro SE,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+194,GBQG.H,GBK Beteiligungen AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Private Equity,55,5510,551020,55102020,5510202016
+195,ETGG.DE,EnviTec Biogas AG,Utilities,Utilities,Electric Utilities & IPPs,Independent Power Producers,Renewable IPPs,59,5910,591010,59101020,5910102012
+196,75Sn.DE,Sdm SE,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,Security Services,52,5220,522030,52203040,5220304014
+197,M7UG.DE,Nynomic AG,Technology,Technology Equipment,Office Equipment,Office Equipment,Scientific & Precision Equipment,57,5710,571050,57105010,5710501014
+198,M0YNn.DE,Mynaric AG,Technology,Technology Equipment,Communications & Networking,Communications & Networking,Satellite Communications Network,57,5710,571020,57102010,5710201016
+199,STRV.VI,STRABAG SE,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+200,ADCG.F,AdCapital AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Private Equity,55,5510,551020,55102020,5510202016
+201,AEIGn.DE,Allgeier SE,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+202,PEHN.S,Private Equity Holding AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Private Equity,55,5510,551020,55102020,5510202016
+203,ALVG.DE,Allianz SE,Financials,Insurance,Insurance,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC),55,5530,553010,55301010,5530101010
+204,TEGG.DE,TAG Immobilien AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+205,BRLG.BE,Brilliant AG,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Construction Supplies & Fixtures,Lighting Fixtures,53,5320,532030,53203020,5320302019
+206,LONN.S,Lonza Group AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+207,LLQ.S,Lalique Group SA,Consumer Cyclicals,Retailers,Specialty Retailers,Home Furnishings Retailers,Art & Craftwork Retailers,53,5340,534030,53403030,5340303016
+208,EVTG.DE,Evotec SE,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+209,ADLG.DE,Adler Real Estate AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+210,ADE.DE,Bitcoin Group SE,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Venture Capital,55,5510,551020,55102020,5510202015
+211,VAHN.S,Vaudoise Assurances Holding SA,Financials,Insurance,Insurance,Property & Casualty Insurance,Property & Casualty Insurance (NEC),55,5530,553010,55301020,5530102010
+212,KURN.S,Kuros Biosciences AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Bio Therapeutic Drugs,56,5620,562020,56202010,5620201011
+213,DARG.DE,Datron AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+214,HACGn.DE,KPS AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+215,ADNGk.DE,adesso SE,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+216,CDZ0.MU,MHP Hotel AG,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,"Hotels, Motels & Cruise Lines",Luxury Hotels,53,5330,533010,53301010,5330101013
+217,IMPN.S,Implenia AG,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+218,PSPN.S,PSP Swiss Property AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+219,RBIV.VI,Raiffeisen Bank International AG,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+220,TELA.VI,Telekom Austria AG,Technology,Telecommunications Services,Telecommunications Services,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC),57,5740,574010,57401010,5740101010
+221,SFQ.DE,Saf-Holland Se,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts",Automotive Body Parts,53,5310,531010,53101020,5310102011
+222,VTWRn.H,Vantage Towers AG,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Telecommunication Construction,52,5220,522010,52201020,5220102023
+223,SWAG.DE,Schloss Wachenheim AG,Consumer Non-Cyclicals,Food & Beverages,Beverages,Distillers & Wineries,Wineries,54,5410,541010,54101020,5410102011
+224,SIGNC.S,SIG Group AG,Basic Materials,Applied Resources,Containers & Packaging,Paper Packaging,Paper Packaging (NEC),51,5130,513020,51302020,5130202010
+225,SAHN.S,Schaffner Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,Electrical Components,52,5210,521020,52102030,5210203013
+226,VNAn.DE,Vonovia SE,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+227,NWOn.DE,New Work SE,Technology,Software & IT Services,Software & IT Services,Online Services,Social Media & Networking,57,5720,572010,57201030,5720103012
+228,IREN.S,Investis Holding SA,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+229,BSLG.DE,Basler AG,Technology,Technology Equipment,Office Equipment,Office Equipment,Scientific & Precision Equipment,57,5710,571050,57105010,5710501014
+230,AIR.PA,Airbus SE,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,Commercial Aircraft Manufacturing,52,5210,521010,52101010,5210101012
+231,STMN.S,Straumann Holding AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",Medical Prosthetics,56,5610,561010,56101020,5610102012
+232,STRN.S,Schlatter Industries AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+233,GKSG.H,GK Software SE,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+234,LRND.DE,Learnd SE,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Shell Companies,55,5560,556010,55601010,5560101011
+235,SD1n.F,Clean Logistics SE,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Automobiles & Multi Utility Vehicles,53,5310,531010,53101010,5310101012
+236,SLSAn.DE,Solutiance AG,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+237,RATV.VI,Rath AG,Basic Materials,Mineral Resources,Construction Materials,Construction Materials,Construction Materials (NEC),51,5120,512020,51202010,5120201010
+238,FF24.DE,Fast Finance 24 Holding AG,Financials,Banking & Investment Services,Banking Services,Consumer Lending,Microfinancing,55,5510,551010,55101030,5510103015
+239,GEBN.S,Geberit AG,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Construction Supplies & Fixtures,Plumbing Fixtures & Fittings,53,5320,532030,53203020,5320302015
+240,ALSN.S,Also Holding AG,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,Computer Hardware (NEC),57,5710,571060,57106010,5710601010
+241,VBKG.DE,Verbio Vereinigte Bioenergie AG,Energy,Renewable Energy,Renewable Energy,Renewable Fuels,Biodiesel,50,5020,502010,50201020,5020102011
+242,EXCL.DE,exceet Group SCA,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,Electronic Components,57,5710,571040,57104010,5710401014
+243,AQP1.D,Action Press AG,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Advertising & Marketing,Advertising & Marketing (NEC),53,5330,533020,53302010,5330201010
+244,KTAG.DE,Knaus Tabbert AG,Consumer Cyclicals,Cyclical Consumer Products,Leisure Products,Recreational Products,Recreational Products (NEC),53,5320,532050,53205020,5320502010
+245,BIOG_p.DE,Biotest AG,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Biopharmaceuticals,56,5620,562010,56201040,5620104012
+246,VAR1.DE,Varta AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,Batteries & Uninterruptable Power Supplies,52,5210,521020,52102030,5210203011
+247,MBBG.DE,MBB SE,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,Business Support Services (NEC),52,5220,522030,52203040,5220304010
+248,NN6G.DE,NanoRepro AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,Medical Diagnostic & Testing Equipment,56,5610,561010,56101010,5610101011
+249,DEZG.DE,DEUTZ AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Construction Machinery,52,5210,521020,52102020,5210202011
+250,BUCN.S,Bucher Industries AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Agricultural Machinery,52,5210,521020,52102020,5210202015
+251,HDDG.DE,Heidelberger Druckmaschinen AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery,52,5210,521020,52102010,5210201012
+252,IXXG.DE,init innovation in traffic systems SE,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+253,DR0G.DE,Deutsche Rohstoff AG,Basic Materials,Mineral Resources,Metals & Mining,Diversified Mining,Diversified Mining,51,5120,512010,51201080,5120108010
+254,IFCN.S,Inficon Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Testing & Measuring Equipment,52,5210,521020,52102010,5210201014
+255,V3VGn.DE,Vita 34 AG,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,Healthcare Facilities & Services (NEC),56,5610,561020,56102010,5610201010
+256,BLKB.S,Basellandschaftliche Kantonalbank,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+257,KARN.S,Kardex Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Electrical Equipment,Elevator & Conveying Equipment,52,5210,521020,52102040,5210204012
+258,JUNG_p.DE,Jungheinrich AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Trucks,52,5210,521020,52102020,5210202012
+259,HYQGn.DE,Hypoport SE,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),Business to Business,57,5730,573010,57301010,5730101020
+260,GURN.S,Gurit Holding AG,Basic Materials,Chemicals,Chemicals,Specialty Chemicals,Specialty Chemicals (NEC),51,5110,511010,51101030,5110103010
+261,GTYG.DE,Gateway Real Estate AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+262,PNEGn.DE,PNE AG,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Wind Systems & Equipment,50,5020,502010,50201010,5020101011
+263,WEW.DE,Westwing Group SE,Consumer Cyclicals,Retailers,Diversified Retail,Department Stores,Internet & Mail Order Department Stores,53,5340,534020,53402010,5340201013
+264,EPTI.ST,Epti AB,Technology,Software & IT Services,Software & IT Services,Software,Application Software,57,5720,572010,57201020,5720102012
+265,LQAG.DE,Laiqon AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC),55,5510,551020,55102020,5510202010
+266,ESUN.S,Edisun Power Europe AG,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,Solar Electric Utilities,59,5910,591010,59101010,5910101022
+267,NAFG.DE,Aurubis AG,Basic Materials,Mineral Resources,Metals & Mining,Specialty Mining & Metals,Nonferrous Metal Processing,51,5120,512010,51201050,5120105016
+268,MLBMD.EUA,Beaconsmind AG,Technology,Software & IT Services,Software & IT Services,Software,Application Software,57,5720,572010,57201020,5720102012
+269,BION.S,BB Biotech AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+270,SCHP.S,Schindler Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Electrical Equipment,Elevator & Conveying Equipment,52,5210,521020,52102040,5210204012
+271,GWI2k.F,Gerry Weber International AG,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Apparel & Accessories,Women's Clothing,53,5320,532020,53202020,5320202012
+272,GAG1n.DE,GORE German Office Real Estate AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management,55,5510,551020,55102020,5510202011
+273,VOES.VI,Voestalpine AG,Basic Materials,Mineral Resources,Metals & Mining,Iron & Steel,Iron & Steel (NEC),51,5120,512010,51201020,5120102010
+274,CICN.S,Cicor Technologies Ltd,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Semiconductors (NEC),57,5710,571010,57101010,5710101010
+275,HIAG.S,HIAG Immobilien Holding AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+276,GXIG.DE,Gerresheimer AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)",56,5610,561010,56101020,5610102010
+277,DBANn.DE,Deutsche Beteiligungs AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Private Equity,55,5510,551020,55102020,5510202016
+278,ETEG.D,Ekotechnika AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Machinery & Vehicles Wholesale,52,5210,521020,52102020,5210202017
+279,ADVG.DE,Adtran Networks SE,Technology,Technology Equipment,Communications & Networking,Communications & Networking,Communications & Networking (NEC),57,5710,571020,57102010,5710201010
+280,HEDV.VI,Maschinenfabrik Heid AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+281,HHXG.H,HAMMONIA Schiffsholding AG,Industrials,Transportation,Freight & Logistics Services,Marine Freight & Logistics,Deep Sea Freight,52,5240,524050,52405020,5240502013
+282,SHSGk.F,SHS Viveon AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+283,BOS.S,Bossard Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+284,8TRA.DE,Traton SE,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Buses & Coaches,52,5210,521020,52102020,5210202013
+285,COTNE.S,Comet Holding AG,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,Electronic Equipment & Parts (NEC),57,5710,571040,57104010,5710401010
+286,PALF.VI,Palfinger AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC),52,5210,521020,52102020,5210202010
+287,1COV.DE,Covestro AG,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,Plastics,51,5110,511010,51101010,5110101011
+288,SWEGn.DE,Schweizer Electronic AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Integrated Circuits,57,5710,571010,57101010,5710101011
+289,WLFD.VI,Wolford AG,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Apparel & Accessories,Women's Clothing,53,5320,532020,53202020,5320202012
+290,NOEJ.DE,Norma Group SE,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+291,MOBN.S,Mobimo Holding AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+292,ZUGN.S,Zug Estates Holding AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+293,BC.S^D19,Bank Cler AG,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+294,TIMAn.DE,ZEAL Network SE,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Casinos & Gaming,Lottery Operators,53,5330,533010,53301030,5330103015
+295,REHN.S,Romande Energie Holding SA,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,Electric Utilities (NEC),59,5910,591010,59101010,5910101010
+296,JFN.S,Jungfraubahn Holding AG,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Leisure & Recreation,Guided Tour Operators,53,5330,533010,53301040,5330104023
+297,NDXG.DE,Nordex SE,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Electrical Equipment,Heavy Electrical Equipment (NEC),52,5210,521020,52102040,5210204010
+298,VALN.S^D23,Valora Holding AG,Consumer Cyclicals,Retailers,Specialty Retailers,Miscellaneous Specialty Retailers,Miscellaneous Specialty Retailers (NEC),53,5340,534030,53403090,5340309010
+299,PA8.DE,Paion AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+300,YOCG.DE,Yoc AG,Technology,Software & IT Services,Software & IT Services,Software,Software (NEC),57,5720,572010,57201020,5720102010
+301,E4CG.DE,Ecotel Communication AG,Technology,Telecommunications Services,Telecommunications Services,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC),57,5740,574010,57401010,5740101010
+302,DEQGn.DE,Deutsche EuroShop AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+303,VFFG.MU,Vereinigte Filzfabriken AG,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Textiles & Leather Goods,Textiles & Leather Goods (NEC),53,5320,532020,53202010,5320201010
+304,TXGN.S,TX Group AG,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Consumer Publishing,Consumer Publishing (NEC),53,5330,533020,53302040,5330204010
+305,HUBN.S,Huber+Suhner AG,Technology,Technology Equipment,Communications & Networking,Communications & Networking,Communications & Networking (NEC),57,5710,571020,57102010,5710201010
+306,MWBG.DE,mwb Fairtrade Wertpapierhandelsbank AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,Investment Banking & Brokerage Services (NEC),55,5510,551020,55102010,5510201010
+307,BSKP.S,Basler Kantonalbank,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+308,UTDI.DE,United Internet AG,Technology,Telecommunications Services,Telecommunications Services,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC),57,5740,574010,57401010,5740101010
+309,1U1.DE,1&1 AG,Technology,Telecommunications Services,Telecommunications Services,Wireless Telecommunications Services,Wireless Telecoms Service Providers,57,5740,574010,57401020,5740102050
+310,L1A.H,Arbitrage Investment AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC),55,5510,551020,55102020,5510202010
+311,BSSG.F,Beta Systems Software AG,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+312,MIKN.S,Mikron Holding AG,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,Plastics,51,5110,511010,51101010,5110101011
+313,AT1.DE,Aroundtown SA,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+314,WBSV.VI,Wienerberger AG,Basic Materials,Mineral Resources,Construction Materials,Construction Materials,Construction Materials (NEC),51,5120,512020,51202010,5120201010
+315,IFNNY.PK,Infineon Technologies AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Semiconductors (NEC),57,5710,571010,57101010,5710101010
+316,ABOG.DE,clearvise AG,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,Electric Utilities (NEC),59,5910,591010,59101010,5910101010
+317,TIONG.DE,Tion Renewables AG,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,Wind Electric Utilities,59,5910,591010,59101010,5910101023
+318,TUI1n.DE,TUI AG,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Leisure & Recreation,Leisure & Recreation (NEC),53,5330,533010,53301040,5330104010
+319,LLBN.S,Liechtensteinische Landesbank AG,Financials,Banking & Investment Services,Banking Services,Banks,Banks (NEC),55,5510,551010,55101010,5510101010
+320,G24n.DE,Scout24 SE,Technology,Software & IT Services,Software & IT Services,Online Services,Online Services (NEC),57,5720,572010,57201030,5720103010
+321,DMPG.DE,Dermapharm Holding SE,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Pharmaceuticals (NEC),56,5620,562010,56201040,5620104010
+322,SQL.BN,Matador Secondary Private Equity AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management,55,5510,551020,55102020,5510202011
+323,PMAG.S,PIERER Mobility AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Motorcycles & Scooters,53,5310,531010,53101010,5310101011
+324,HAGG.DE,Hensoldt AG,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,Satellite Design & Manufacture,52,5210,521010,52101010,5210101016
+325,EROG.DE,Tmc Content Group AG,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Entertainment Production,"Movie, TV Production & Distribution",53,5330,533020,53302030,5330203011
+326,C3RY.DE,Cherry SE,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,Output Devices,57,5710,571060,57106010,5710601015
+327,MEDA.S,Medartis Holding AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",Medical Devices & Implants,56,5610,561010,56101020,5610102014
+328,MOVE.S,Medacta Group SA,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)",56,5610,561010,56101020,5610102010
+329,KGRG.F,Lewag Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+330,SE3G.H,Smart Equity AG,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),Financial Technology (Fintech) (NEC),57,5730,573010,57301010,5730101010
+331,COR2.DE,Coreo AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+332,ASWN.S,Asmallworld AG,Technology,Software & IT Services,Software & IT Services,Online Services,Social Media & Networking,57,5720,572010,57201030,5720103012
+333,SYAB.DE,Synlab AG,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,Medical & Diagnostic Laboratories,56,5610,561020,56102010,5610201015
+334,KTEK.DE,Katek Se,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,Electronic Equipment & Parts (NEC),57,5710,571040,57104010,5710401010
+335,GTK.DE,Tonkens Agrar AG,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Fishing & Farming,Fishing & Farming (NEC),54,5410,541020,54102010,5410201010
+336,CMBN.S,Cembra Money Bank AG,Financials,Banking & Investment Services,Banking Services,Banks,Retail & Mortgage Banks,55,5510,551010,55101010,5510101012
+337,VZUG.S,V-ZUG Holding AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+338,PSGG.DE,PharmaSGP Holding SE,Consumer Cyclicals,Retailers,Specialty Retailers,Miscellaneous Specialty Retailers,Personal Care Products Retailers,53,5340,534030,53403090,5340309012
+339,SB1G.DE,Smartbroker Holding AG,Technology,Software & IT Services,Software & IT Services,Online Services,Online Services (NEC),57,5720,572010,57201030,5720103010
+340,PV.DE,Pfeiffer Vacuum Technology AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Air & Gas Compressors,52,5210,521020,52102010,5210201016
+341,CLXN.S,Crealogix Holding AG,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),Financial Technology (Fintech) (NEC),57,5730,573010,57301010,5730101010
+342,KOMN.S,Komax Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+343,METN.S,Metall Zug AG,Consumer Cyclicals,Cyclical Consumer Products,Household Goods,"Appliances, Tools & Housewares","Appliances, Tools & Housewares (NEC)",53,5320,532040,53204030,5320403010
+344,MOZN.S,Mobilezone Holding AG,Technology,Telecommunications Services,Telecommunications Services,Integrated Telecommunications Services,Telecommunications Resellers,57,5740,574010,57401010,5740101030
+345,SBSG.DE,Stratec SE,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC),56,5610,561010,56101010,5610101010
+346,MSHGn.F,WASGAU Produktions & Handels AG,Consumer Non-Cyclicals,Food & Drug Retailing,Food & Drug Retailing,Food Retail & Distribution,Supermarkets & Convenience Stores,54,5430,543010,54301020,5430102012
+347,Q11.D,Viromed Medical AG,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,Pharmaceuticals (NEC),56,5620,562010,56201040,5620104010
+348,NIIGn.DE,Niiio Finance Group AG,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),Financial Technology (Fintech) (NEC),57,5730,573010,57301010,5730101010
+349,TKBP.S,Thurgauer Kantonalbank,Financials,Banking & Investment Services,Banking Services,Banks,Corporate Banks,55,5510,551010,55101010,5510101011
+350,GSC1n.DE,Gesco SE,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+351,BNRGn.DE,Brenntag SE,Basic Materials,Chemicals,Chemicals,Diversified Chemicals,Diversified Chemicals,51,5110,511010,51101090,5110109010
+352,OSPGk.DE,USU Software AG,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+353,S9I.DE,Stemmer Imaging AG,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,Electronic Equipment & Parts (NEC),57,5710,571040,57104010,5710401010
+354,CTNGk.F,Centrotherm International AG,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Photovoltaic Solar Systems & Equipment,50,5020,502010,50201010,5020101013
+355,BEAN.S,Belimo Holding AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Fluid Power Cylinder & Actuators,52,5210,521020,52102010,5210201019
+356,HYIG.F,Hyrican Informationssysteme AG,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,Computer Hardware (NEC),57,5710,571060,57106010,5710601010
+357,CLTN.S,Coltene Holding AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)",56,5610,561010,56101020,5610102010
+358,GLJn.DE,Grenke AG,Financials,Banking & Investment Services,Banking Services,Corporate Financial Services,Commercial Leasing,55,5510,551010,55101050,5510105015
+359,V3SG.DE,Vectron Systems AG,Technology,Technology Equipment,Office Equipment,Office Equipment,Point of Sale Systems,57,5710,571050,57105010,5710501013
+360,MORG.DE,MorphoSys AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+361,BYS.S,Bystronic AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Machine Tools,52,5210,521020,52102010,5210201022
+362,FORN.S,Forbo Holding AG,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Construction Supplies & Fixtures,Flooring & Interior Tile Manufacturers,53,5320,532030,53203020,5320302014
+363,WSUG.DE,WashTec AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+364,BYWG.DE,BayWa AG,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Fishing & Farming,Fishing & Farming Wholesale,54,5410,541020,54102010,5410201026
+365,U9P.D,EAMD European AeroMarine Drones AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+366,SIXG.DE,Sixt SE,Industrials,Transportation,Passenger Transportation Services,"Passenger Transportation, Ground & Sea",Passenger Car Rental,52,5240,524060,52406020,5240602017
+367,ARBNO.S,Arbonia AG,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Construction Supplies & Fixtures,Construction Supplies & Fixtures (NEC),53,5320,532030,53203020,5320302010
+368,INAI.S,Ina Invest Holding AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+369,TPEG.DE,PVA TePla AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Equipment & Testing,Semiconductor Machinery Manufacturing,57,5710,571010,57101020,5710102011
+370,SZ50k.D,Deutsche Geothermische Immobilien AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+371,WAFGn.DE,Siltronic AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,Semiconductors (NEC),57,5710,571010,57101010,5710101010
+372,PWO.DE,PWO AG,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)",53,5310,531010,53101020,5310102010
+373,INHG.DE,Indus Holding AG,Consumer Non-Cyclicals,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,54,5440,544010,54401010,5440101010
+374,FACC.VI,FACC AG,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,Aircraft Parts Manufacturing,52,5210,521010,52101010,5210101014
+375,NREN.S,Novavest Real Estate AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+376,BIKE.DE,Bike24 Holding AG,Consumer Cyclicals,Retailers,Specialty Retailers,Miscellaneous Specialty Retailers,Sporting Goods Stores,53,5340,534030,53403090,5340309023
+377,HHFGn.DE,Hamburger Hafen und Logistik AG,Industrials,Transportation,Transport Infrastructure,Marine Port Services,Marine Port Services (NEC),52,5240,524070,52407020,5240702010
+378,METG.S,Meier Tobler Group AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,Electrical Components & Equipment (NEC),52,5210,521020,52102030,5210203010
+379,ECVG.DE,Encavis AG,Utilities,Utilities,Electric Utilities & IPPs,Independent Power Producers,Renewable IPPs,59,5910,591010,59101020,5910102012
+380,EQSn.DE,EQS Group AG,Technology,Software & IT Services,Software & IT Services,Software,Software (NEC),57,5720,572010,57201020,5720102010
+381,DHER.DE,Delivery Hero SE,Technology,Software & IT Services,Software & IT Services,Online Services,Online Services (NEC),57,5720,572010,57201030,5720103010
+382,BNNn.DE,BRAIN Biotech AG,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Environmental Services & Equipment,Environmental R&D Services & Biotechnology,52,5220,522030,52203010,5220301014
+383,ADSGn.DE,Adidas AG,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Footwear,Sports & Outdoor Footwear,53,5320,532020,53202030,5320203014
+384,FSNT.DE,Fashionette AG,Consumer Cyclicals,Retailers,Specialty Retailers,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC),53,5340,534030,53403040,5340304010
+385,SIEGn.DE,Siemens AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+386,VBX.DE,Voltabox AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,Batteries & Uninterruptable Power Supplies,52,5210,521020,52102030,5210203011
+387,TMV.DE,TeamViewer SE,Technology,Software & IT Services,Software & IT Services,Software,Software (NEC),57,5720,572010,57201020,5720102010
+388,FYB.DE,Formycon AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+389,MXHNn.DE,MAX Automation SE,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+390,RHMG.DE,Rheinmetall AG,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,Aerospace & Defense (NEC),52,5210,521010,52101010,5210101010
+391,EADG.DE,Erlebnis Akademie AG,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Leisure & Recreation,Leisure & Recreation (NEC),53,5330,533010,53301040,5330104010
+392,NF4.DE,Netfonds AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Diversified Investment Services,Diversified Investment Services,55,5510,551020,55102030,5510203010
+393,ARTG.DE,bet-at-home.com AG,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Casinos & Gaming,Casinos & Gaming (NEC),53,5330,533010,53301030,5330103010
+394,TGHN.DE,Logwin AG SA,Industrials,Transportation,Freight & Logistics Services,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)",52,5240,524050,52405010,5240501010
+395,WIGGk.DE,Sporttotal AG,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Entertainment Production,Entertainment Production (NEC),53,5330,533020,53302030,5330203010
+396,RAAG.DE,Rational AG,Consumer Cyclicals,Cyclical Consumer Products,Household Goods,"Appliances, Tools & Housewares",Kitchen Appliances,53,5320,532040,53204030,5320403013
+397,E8XG.DE,Elexxion AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC),56,5610,561010,56101010,5610101010
+398,LPKG.DE,LPKF Laser & Electronics SE,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Photovoltaic Solar Systems & Equipment,50,5020,502010,50201010,5020101013
+399,ABXG.DE,Advanced Blockchain AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT Services & Consulting (NEC),57,5720,572010,57201010,5720101010
+400,EFSG.MU,Effecten-Spiegel AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management,55,5510,551020,55102020,5510202011
+401,JDC.DE,JDC Group AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Diversified Investment Services,Diversified Investment Services,55,5510,551020,55102030,5510203010
+402,DEF.DE,Defama Deutsche Fachmarkt AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Retail Real Estate Rental & Development,60,6010,601010,60101010,6010101030
+403,DISG.SG^F23,DVS Technology AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Machine Tools,52,5210,521020,52102010,5210201022
+404,VJET.OQ,Voxeljet AG,Technology,Technology Equipment,Office Equipment,Office Equipment,Office Equipment (NEC),57,5710,571050,57105010,5710501010
+405,ANDR.VI,Andritz AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+406,S4AAn.DE,SMT Scharf AG,Basic Materials,Mineral Resources,Metals & Mining,Mining Support Services & Equipment,Mining Machinery & Equipment Manufacturing,51,5120,512010,51201070,5120107013
+407,BIG1k.DE,Bio-Gate AG,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)",56,5610,561010,56101020,5610102010
+408,M14K.MU,Securize IT Solutions AG,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,Computer Programming,57,5720,572010,57201010,5720101011
+409,RY8.F,ROY Asset Holding SE,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Construction Supplies & Fixtures,Bathroom Fixtures,53,5320,532030,53203020,5320302017
+410,0W6K.L,Consus Real Estate AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+411,CSHG.DE,CENIT AG,Technology,Software & IT Services,Software & IT Services,Software,Software (NEC),57,5720,572010,57201020,5720102010
+412,GBFG.DE,Bilfinger SE,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Construction & Engineering (NEC),52,5220,522010,52201020,5220102010
+413,M3Bk.DE,Pyramid AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Venture Capital,55,5510,551020,55102020,5510202015
+414,LDF.DE,Linus Digital Finance AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC),55,5510,551020,55102020,5510202010
+415,IMFI.VI,Immofinanz AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)",60,6010,601010,60101010,6010101010
+416,F3CG.DE,SFC Energy AG,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,Stationary Fuel Cells,50,5020,502010,50201010,5020101012
+417,LSXG.DE,Ls Telcom AG,Technology,Technology Equipment,Communications & Networking,Communications & Networking,Communications & Networking (NEC),57,5710,571020,57102010,5710201010
+418,MF6G.SG,Magforce AG,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC),56,5620,562020,56202010,5620201010
+419,TNIE.DE,tonies SE,Consumer Cyclicals,Cyclical Consumer Products,Leisure Products,Toys & Children's Products,Toys & Children's Products (NEC),53,5320,532050,53205010,5320501010
+420,R2E0k.BE,RIXX Invest AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+421,LNSX.F,Allane SE,Financials,Banking & Investment Services,Banking Services,Consumer Lending,Consumer Leasing,55,5510,551010,55101030,5510103013
+422,9Z2.D,Aurasol AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+423,WDL1k.F,Windeln.de SE,Consumer Cyclicals,Retailers,Diversified Retail,Department Stores,Internet & Mail Order Department Stores,53,5340,534020,53402010,5340201013
+424,INS2.DE,Instone Real Estate Group SE,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+425,ISH1k.DE,INTERSHOP Communications AG,Technology,Software & IT Services,Software & IT Services,Software,Enterprise Software,57,5720,572010,57201020,5720102013
+426,KSWG.F,KST Beteiligungs AG,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,Private Equity,55,5510,551020,55102020,5510202016
+427,RCMN.DE,RCM Beteiligungs AG,Real Estate,Real Estate,Real Estate Operations,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development,60,6010,601010,60101010,6010101050
+428,VIAAY.PK,Flughafen Wien AG,Industrials,Transportation,Transport Infrastructure,Airport Operators & Services,Airport Operators,52,5240,524070,52407010,5240701011
+429,PSHG_p.DE,Porsche Automobil Holding SE,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC),53,5310,531010,53101010,5310101010
+430,VEZ.DE,Veganz Group AG,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,Vegan & Vegetarian Food Manufacturing,54,5410,541020,54102020,5410202032
+431,NMIG.D,Aladdin Healthcare Technologies SE,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,Healthcare Facilities & Services (NEC),56,5610,561020,56102010,5610201010
+432,KWGG.DE,KHD Humboldt Wedag International AG,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC),52,5210,521020,52102010,5210201010
+433,RORG.D,SunMirror AG,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+434,M5ZG.DE,Manz AG,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Equipment & Testing,Semiconductor Machinery Manufacturing,57,5710,571010,57101020,5710102011
+435,A7K.D,Hbi-Hyperion Se,Financials,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies,Investment Holding Companies (NEC),55,5560,556010,55601010,5560101010
+436,PNHO.S^F22,Poenina Holding AG,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,Building Contractors,52,5220,522010,52201020,5220102016
