@@ -15,6 +15,11 @@
  - Stock Data: historical data from January 2019 to September 2023 having the daily - highest price, opening price, closing price, and trading volume.  
  - Sector Data: sector-based information related to each RIC ticker such as company name, economic and business sector, industry name, etc.
 
+## Technology Stack 
+
+ - Predictive Analysis: PySpark, NumPy, Keras, Tensorflow, ApacheSparkSQL, Seaborn, Matplotlib 
+ - Full Stack Data Product: Flask, HTML, CSS, JavaScript, Chart.js, PySpark, NumPy, Keras.  
+     
 ## Data Product Full-Stack Lifecycle 
 
 ![IBM_Capstone_Implementation](https://github.com/pk9444/IBM_Capstone/assets/57378806/0440e104-32f6-432c-a7f1-d18bfff4e173)
