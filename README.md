@@ -19,6 +19,36 @@
 
 ![IBM_Capstone_Implementation](https://github.com/pk9444/IBM_Capstone/assets/57378806/0440e104-32f6-432c-a7f1-d18bfff4e173)
 
+## Exploratory Data Analysis Results  
+
+### Stock Dataset: 
+
+- Data Shape: 501,625 records and 6 features (columns)
+  
+- Number of duplicate records: 15257
+
+- NULL Check:
+- ![NULL_check](https://github.com/pk9444/IBM_Capstone/assets/57378806/97de5acc-6465-4580-898b-cd348ed0e052)
+
+- Univariate Analysis: Frequency Distribution and Outlier Detection:
+-![outliers](https://github.com/pk9444/IBM_Capstone/assets/57378806/314da5bc-8382-4120-bd25-9bc35a814302)
+ **The same, nearly identical right-skewed distribution is followed by the Opening and Closing Prices as well. And, they too have a large no. of large outliers like this. 
+
+- NULL Imputation:
+  - Drop the records that have a NULL date
+  - Replace NULLs for highest, opening, closing prices, and trading volume with the **median** for a given RIC for that year and month.
+  - Mean imputation is not suitable because it assumes normal distribution and is highly outlier sensitive.
+  - On the other hand, directly dropping the NULLs for continuous features may lead to a loss of overall information.
+  - Mode imputation does not work here because it is used for categorical features.
+
+- Multivariate Analysis:
+- ![correlation](https://github.com/pk9444/IBM_Capstone/assets/57378806/62dd055a-3a3e-4614-bbbd-0ffe73020ba1)
+- The opening and closing prices have the strongest correlation to the target variable - highest stock price.
+- The daily trading volume has a very low correlation compared to the other two features.
+- Although very strongly correlated, the opening and closing price may possibly cause multicollinearity.
+- To address it, add a new calculated feature called `Daily Return` which is defined as `Opening Price - Closing Price` for a given day. 
+ 
+
 ## Most Important Features Impacting the Highest Stock Price
 
 ![feature_importance](https://github.com/pk9444/IBM_Capstone/assets/57378806/66cf58db-5165-4851-9f1d-52c91b26753f)
@@ -26,8 +56,7 @@
 - The daily opening and closing prices have the strongest impact on the highest price for any given trading day.
 - Quantitatively speaking, the opening and closing, together contribute to ~87%-88% importance in determining the highest stock price.
 - The daily trading volume has a very low feature importance and hence, it does not add much information in forecasting the highest stock price.
-- The daily return is a calculated feature derived as the `Opening Price - Closing Price` for any given day.
-- The idea behind including a calculated feature is to avoid any potential multicollinearity that the opening and closing prices could cause.
+- The daily return also has a low feature importance, but it is a viable candidate to be included in the feature as it is derived from the two most important features. 
 - Based on the insights, two possible combinations of feature sets were recommended to predict the daily average highest price:
   - `{Opening Price, Closing Price}` (* throughout the iterative lifecycle, it was found out that this combination performs slightly better)
   - `{Opening Price, Closing Price, Daily Return}` 
