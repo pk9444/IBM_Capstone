@@ -49,10 +49,22 @@
 - Consider a real-time example -> to predict the highest stock price of an RIC for the upcoming month - November 2023.
 - Factors impacting November 2023:
   - The historical `Average Highest Price` for the past at least 6-12 months.
-  - And the highest prices for the past 6-12 months in turn depend upon the `Average Opening Price`, `Average Closing Price` based on feature engineerin. 
+  - And the highest prices for the past 6-12 months in turn depend upon the `Average Opening Price`, `Average Closing Price` based on feature engineering. 
 -The Random forest, or any regressor for that instance, **fails to capture this very temporal or seasonal nature of a time-series historical data**.
-- It only predicts based on the feature set for the current instance which are not available for the next months.
-- Hence, this explains its bad performance on the Regression metrics and explains why it is not suitable for time-series forecasting. 
+- It can only predict based on the feature set for the current instance which is not available for the next months.
+- Hence, this explains its bad performance on the Regression metrics and explains why it is not suitable for time-series forecasting.
+
+## Advantages of the LSTM Recurrent Neural Network  
+- On the other hand, the LSTM captures this very temporal aspect by creating the lag sequences from the feature vector and feeding it as input to the LSTM's output layer. 
+- Consider the same real-time example as aforementioned.
+- For a given RIC:
+  - LSTM creates lagging sequences of the feature vector for the past 12 months, depending upon how many lags one wants to create.
+  - Each lag captures the feature vector for the preceding month and so on. 
+  - So, the forecasted highest price for November 2023 includes the sequence {`Average Opening`, `Average Closing Price`} for the last 12 months.
+  - Define the number of output layers for how many predictions are required. For forecasting the next N-months, set `N + 1` layers - the current month + the upcoming N months. 
+- In this way, the LSTM captures the temporal aspect of historical data in time-series which explains its much better performance on the Regression Testing metrics. 
+    
+
 
 
 
