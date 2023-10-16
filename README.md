@@ -11,9 +11,9 @@
 
  ## Dataset 
 
- - Data Source: https://www.kaggle.com/datasets/luisgilch/stock-data-with-industry-information
- - Stock Data: historical data from January 2019 to September 2023 having the daily - highest price, opening price, closing price, and trading volume.  
- - Sector Data: sector-based information related to each RIC ticker such as company name, economic and business sector, industry name, etc.
+ - **Data Source:** https://www.kaggle.com/datasets/luisgilch/stock-data-with-industry-information
+ - **Stock Data:** CSV historical data from January 2019 to September 2023 having the daily - highest price, opening price, closing price, and trading volume.  
+ - **Sector Data:** CSV sector-based information related to each RIC ticker such as company name, economic and business sector, industry name, etc.
 
 ## Technology Stack 
 
@@ -28,25 +28,25 @@
 
 ### Stock Dataset: 
 
-- Data Shape: 501,625 records and 6 features (columns)
+- **Data Shape:** 501,625 records and 6 features (columns)
   
-- Number of duplicate records: 15257
+- **Number of duplicate records:** 15257
 
-- NULL Check:
+- **NULL Check:**
 - ![NULL_check](https://github.com/pk9444/IBM_Capstone/assets/57378806/97de5acc-6465-4580-898b-cd348ed0e052)
 
-- Univariate Analysis: Frequency Distribution and Outlier Detection:
+- **Univariate Analysis: Frequency Distribution and Outlier Detection:**
 -![outliers](https://github.com/pk9444/IBM_Capstone/assets/57378806/314da5bc-8382-4120-bd25-9bc35a814302)
  **The same, nearly identical right-skewed distribution is followed by the Opening and Closing Prices as well. And, they too have a large no. of large outliers like this. 
 
-- NULL Imputation:
+- **NULL Imputation:**
   - Drop the records that have a NULL date
   - Replace NULLs for highest, opening, closing prices, and trading volume with the **median** for a given RIC for that year and month.
   - Mean imputation is not suitable because it assumes normal distribution and is highly outlier sensitive.
   - On the other hand, directly dropping the NULLs for continuous features may lead to a loss of overall information.
   - Mode imputation does not work here because it is used for categorical features.
 
-- Multivariate Analysis:
+- **Multivariate Analysis:**
 - ![correlation](https://github.com/pk9444/IBM_Capstone/assets/57378806/62dd055a-3a3e-4614-bbbd-0ffe73020ba1)
 - The opening and closing prices have the strongest correlation to the target variable - highest stock price.
 - The daily trading volume has a very low correlation compared to the other two features.
