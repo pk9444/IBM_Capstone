@@ -101,6 +101,9 @@
 
 ## Full Stack Deployment 
 
+![Full_Stack_Deployment drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/fef40da2-ec9c-477b-9b39-230a654d3173)
+
+
 ## Project Assets - Jupyter Notebooks 
 
 - EDA - https://gist.github.com/pk9444/801214f0decdaf769fa58d17f1453f36
