@@ -105,7 +105,7 @@
 
 
 
-## Project Assets - Jupyter Notebooks 
+## Project Assets - Jupyter Notebooks GISTs
 
 - EDA - https://gist.github.com/pk9444/801214f0decdaf769fa58d17f1453f36
 - ETL Data Cleansing - https://gist.github.com/pk9444/2179049e5c45774e0f92b2121b88534d
