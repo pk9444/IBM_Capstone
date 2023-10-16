@@ -1,4 +1,5 @@
 # IBM Capstone Advanced Data Science Specialization 2023
+### Forecasting the Highest Stock Price of RIC over time with Advanced Machine Learning
 
 ## Project Goals
 
@@ -75,10 +76,10 @@
 ### LSTM Recurrent Neural Network 
 ![LSTM_Model_Diagram drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/02889886-5d70-4ad9-999f-69ef8eb3b727)
 
-## Regression Testing Results 
+### Regression Testing Results 
 ![Regression_Testing](https://github.com/pk9444/IBM_Capstone/assets/57378806/41aa468f-72bd-4adf-bd52-4fa89fdaf366)
 
-## Drawbacks of Regression in time-series forecasting 
+### Drawbacks of Regression in time-series forecasting 
 - The Random Forest regressor fails to capture the temporal nature of time-series data while making predictions for any further timesteps.
 - Consider a real-time example -> to predict the highest stock price of an RIC for the upcoming month - November 2023.
 - Factors impacting November 2023:
@@ -88,7 +89,7 @@
 - It can only predict based on the feature set for the current instance which is not available for the next months.
 - Hence, this explains its bad performance on the Regression metrics and explains why it is not suitable for time-series forecasting.
 
-## Advantages of the LSTM Recurrent Neural Network  
+### Advantages of the LSTM Recurrent Neural Network  
 - On the other hand, the LSTM captures this very temporal aspect by creating the lag sequences from the feature vector and feeding it as input to the LSTM's output layer. 
 - Consider the same real-time example as aforementioned.
 - For a given RIC:
@@ -96,8 +97,17 @@
   - Each lag captures the feature vector for the preceding month and so on. 
   - So, the forecasted highest price for November 2023 includes the sequence {`Average Opening`, `Average Closing Price`} for the last 12 months.
   - Define the number of output layers for how many predictions are required. For forecasting the next N-months, set `N + 1` layers - the current month + the upcoming N months. 
-- In this way, the LSTM captures the temporal aspect of historical data in time-series which explains its much better performance on the Regression Testing metrics. 
-    
+- In this way, the LSTM captures the temporal aspect of historical data in time-series which explains its much better performance on the Regression Testing metrics.
+
+## Full Stack Deployment 
+
+## Project Assets - Jupyter Notebooks 
+
+- EDA - https://gist.github.com/pk9444/801214f0decdaf769fa58d17f1453f36
+- ETL Data Cleansing - https://gist.github.com/pk9444/2179049e5c45774e0f92b2121b88534d
+- ETL Feature Engg - https://gist.github.com/pk9444/0c6f6bab39a4e8a9abf8447eb4c7252b
+- Model Building - https://gist.github.com/pk9444/a49749592e53073b7d223560a73bbca5
+- Data Product - https://gist.github.com/pk9444/eb0ca6cf045737b33a12661a7dd1066f
 
 
 
