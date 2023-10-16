@@ -17,8 +17,8 @@
 
 ## Technology Stack 
 
- - Predictive Analysis: PySpark, NumPy, Keras, Tensorflow, ApacheSparkSQL, Seaborn, Matplotlib 
- - Full Stack Data Product: Flask, HTML, CSS, JavaScript, Chart.js, PySpark, NumPy, Keras.  
+ - **Predictive Analysis:** PySpark, NumPy, Keras, Tensorflow, ApacheSparkSQL, Seaborn, Matplotlib 
+ - **Full Stack Data Product:** Flask, HTML, CSS, JavaScript, Chart.js, PySpark, NumPy, Keras.  
      
 ## Data Product Full-Stack Lifecycle 
 
