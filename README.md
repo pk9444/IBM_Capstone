@@ -23,7 +23,8 @@
      
 ## Data Product Full-Stack Lifecycle 
 
-![IBM_Capstone_Implementation](https://github.com/pk9444/IBM_Capstone/assets/57378806/0440e104-32f6-432c-a7f1-d18bfff4e173)
+![IBM_Capstone_Implementation](https://github.com/pk9444/IBM_Capstone/assets/57378806/26ccd91a-0051-4ce0-bd3e-ad5df513b40e)
+
 
 ## Exploratory Data Analysis Results  
 
@@ -34,10 +35,12 @@
 - **Number of duplicate records:** 15257
 
 - **NULL Check:**
-- ![NULL_check](https://github.com/pk9444/IBM_Capstone/assets/57378806/97de5acc-6465-4580-898b-cd348ed0e052)
+- ![NULL_check](https://github.com/pk9444/IBM_Capstone/assets/57378806/d0e00130-2071-40df-8653-a782d19c3248)
+
 
 - **Univariate Analysis: Frequency Distribution and Outlier Detection:**
--![outliers](https://github.com/pk9444/IBM_Capstone/assets/57378806/314da5bc-8382-4120-bd25-9bc35a814302)
+- ![outliers](https://github.com/pk9444/IBM_Capstone/assets/57378806/cdd4a6b9-3cb1-443f-a85c-7adafbf82c36)
+
  **The same, nearly identical right-skewed distribution is followed by the Opening and Closing Prices as well. And, they too have a large no. of large outliers like this. 
 
 - **NULL Imputation:**
@@ -48,7 +51,8 @@
   - Mode imputation does not work here because it is used for categorical features.
 
 - **Multivariate Analysis:**
-- ![correlation](https://github.com/pk9444/IBM_Capstone/assets/57378806/62dd055a-3a3e-4614-bbbd-0ffe73020ba1)
+- ![correlation](https://github.com/pk9444/IBM_Capstone/assets/57378806/def3b9ee-1e81-4d1e-b131-3b12a4904fb1)
+
 - The opening and closing prices have the strongest correlation to the target variable - highest stock price.
 - The daily trading volume has a very low correlation compared to the other two features.
 - Although very strongly correlated, the opening and closing price may possibly cause multicollinearity.
@@ -57,7 +61,8 @@
 
 ## Most Important Features Impacting the Highest Stock Price
 
-![feature_importance](https://github.com/pk9444/IBM_Capstone/assets/57378806/66cf58db-5165-4851-9f1d-52c91b26753f)
+![feature_importance](https://github.com/pk9444/IBM_Capstone/assets/57378806/e7f5621b-202c-4eaa-9424-0fd277dda0cf)
+
 
 - The daily opening and closing prices have the strongest impact on the highest price for any given trading day.
 - Quantitatively speaking, the opening and closing, together contribute to ~87%-88% importance in determining the highest stock price.
@@ -70,14 +75,15 @@
 ## Model Building 
 
 ### Random Forest Regressor
-![Random_Forest_Model drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/267b6a75-2b86-44f5-903e-c989943a17ac)
+![Random_Forest_Model drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/7994b7f7-03bb-4533-9752-7b5fb9a57d05)
 
 
 ### LSTM Recurrent Neural Network 
-![LSTM_Model_Diagram drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/02889886-5d70-4ad9-999f-69ef8eb3b727)
+![LSTM_Model_Diagram drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/37299bf7-248b-4136-ae48-d54e4bc37ac1)
+
 
 ### Regression Testing Results 
-![Regression_Testing](https://github.com/pk9444/IBM_Capstone/assets/57378806/41aa468f-72bd-4adf-bd52-4fa89fdaf366)
+![Regression_Testing](https://github.com/pk9444/IBM_Capstone/assets/57378806/24433e12-2a6e-468a-b805-550d75a91800)
 
 ### Drawbacks of Regression in time-series forecasting 
 - The Random Forest regressor fails to capture the temporal nature of time-series data while making predictions for any further timesteps.
@@ -101,8 +107,7 @@
 
 ## Full Stack Deployment 
 
-![Full_Stack_Deployment drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/e1eca443-35d6-4af9-9a0f-a819c0c52d64)
-
+![Full_Stack_Deployment drawio](https://github.com/pk9444/IBM_Capstone/assets/57378806/0ab64f13-a417-4a13-a5f2-c13e2afe4a6c)
 
 
 ## Project Assets - Jupyter Notebooks GISTs
