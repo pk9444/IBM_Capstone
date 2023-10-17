@@ -113,6 +113,10 @@
 - Model Building - https://gist.github.com/pk9444/a49749592e53073b7d223560a73bbca5
 - Data Product - https://gist.github.com/pk9444/eb0ca6cf045737b33a12661a7dd1066f
 
+- ## YouTube Business Data Product Pitch 
+
+- https://www.youtube.com/watch?v=e_XHJIX08wA
+
 
 
 
